@@ -12,4 +12,4 @@
   <div align="center">
   </div>
 
-Please contact Marcel Grimmer (marcel.grimmer@h-da.de) to receive the official code.
+Please contact Marcel Grimmer (marcel.grimmer@h-da.de) or Christoph Busch (christoph.busch@h-da.de) to receive the official code and pre-trained models.

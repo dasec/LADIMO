@@ -13,7 +13,7 @@
   </div>
 
 <p align="center"> 
-<img src="ladimo-intro.png">
+<img src="ladimo-intro.png" width="50%">
 </p>
 
 Please contact Marcel Grimmer (marcel.grimmer@h-da.de) or Christoph Busch (christoph.busch@h-da.de) to receive the official code and pre-trained models.

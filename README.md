@@ -12,4 +12,8 @@
   <div align="center">
   </div>
 
+    <!-- <a href="">
+    <img src="./ladimo-intro" alt="Logo" width="100%">
+  </a> -->
+
 Please contact Marcel Grimmer (marcel.grimmer@h-da.de) or Christoph Busch (christoph.busch@h-da.de) to receive the official code and pre-trained models.
